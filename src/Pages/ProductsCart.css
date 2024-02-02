@@ -1,0 +1,10 @@
+.card{
+    width: 100%;
+    height: fit-content;
+}
+.img-thumbnail{
+    height: 100px;
+}
+.img-fluid{
+    max-width: 160px;
+}
